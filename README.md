@@ -1,4 +1,4 @@
-#  Swipyness
+#  Swipyness (UniSZA-MMU Hackathon)
 ![](https://img.shields.io/github/license/sooxiaotong/Swipyness.svg)
 
 ## How to Setup
