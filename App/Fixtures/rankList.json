@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "59f808b9e38a21364ffa85d9",
+    "arrow": "forward",
+    "profile": "me",
+    "rank": 12,
+    "happiness": 112,
+    "username": "Aiman"
+  },
+  {
+    "_id": "59f808b9b4b8deebfba0459e",
+    "arrow": "down",
+    "profile": "me",
+    "rank": 13,
+    "happiness": 98,
+    "username": "Ainin"
+  },
+  {
+    "_id": "59f808b941d29729fc4f5ecd",
+    "arrow": "up",
+    "profile": "me",
+    "rank": 14,
+    "happiness": 92,
+    "username": "Ian Pee"
+  },
+  {
+    "_id": "59f808b9739dd25286f6db95",
+    "arrow": "down",
+    "profile": "me",
+    "rank": 15,
+    "happiness": 89,
+    "username": "Soo Xiao Tong"
+  },
+  {
+    "_id": "59f808b9f4d217f77c05f737",
+    "arrow": "forward",
+    "profile": "me",
+    "rank": 16,
+    "happiness": 77,
+    "username": "Colon"
+  },
+  {
+    "_id": "59f808b9bcdd8c63c4f741c7",
+    "arrow": "forward",
+    "profile": "me",
+    "rank": 17,
+    "happiness": 69,
+    "username": "Jenny"
+  },
+  {
+    "_id": "59f808b979b54c6307abb73f",
+    "arrow": "up",
+    "profile": "me",
+    "rank": 18,
+    "happiness": 57,
+    "username": "Meredith"
+  },
+  {
+    "_id": "59f808b923e256bf7f75a080",
+    "arrow": "down",
+    "profile": "me",
+    "rank": 19,
+    "happiness": 40,
+    "username": "Lourdes"
+  }
+]
